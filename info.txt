@@ -1,0 +1,3 @@
+Name: Satyam
+Age: 24
+Place: Varanasi
